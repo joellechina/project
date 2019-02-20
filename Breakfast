@@ -1,0 +1,33 @@
+<html>
+
+  <body>
+    <h2>
+      Making a Protein Smoothie
+    </h2>
+    <h4>
+      by Joelle John
+    </h4>
+    <p>
+      I make this smoothie when I wake up and when I come from the gym. The protein smoothie helps me build muscle after I work out.
+    </p>
+    <h3>
+      Ingredients
+    </h3>
+    <ul>
+      <li> 1 banana </li>
+      <li> protein powder</li>
+      <li> spinach </li>
+      <li> dark chocolate</li>
+      <li> peanut butter</li>
+    </ul>
+    <h3>
+      What to Do
+    </h3>
+    <ol>
+      <li> Chop up the banana</li>
+      <li> Measure out 1 1/2 cup of pwder</li>
+      <li> Put ice and water in blender </li>
+      <li> Put rest of ingredients in blender</li>
+      <li> Turn on blender</li>
+      <li> Drink</li>
+    </ol>
